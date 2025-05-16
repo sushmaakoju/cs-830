@@ -31,6 +31,20 @@ This repository contains my work for selected assignments from the CS830 Introdu
 
 This work was completed as part of coursework in Computer Science. I mainly focussed on segments more relevant for Natural Language Understanding. The repository showcases technical implementations related to foundations of artificial intelligence.
 
+## Academic Challenges Encountered
+
+During the Spring 2025 semester, I faced several obstacles that impacted my coursework:
+
+- Navigated challenges despite having temporary accommodations through Student Accessibility 
+  Services (Oct 2024, April 2025).
+- Maintained commitment to my chosen PhD specialization in Natural Language Understanding (NLU) amid lot of 
+  pressure to change research direction.
+- Experienced a challenging academic environment at various levels that tested my resolve to continue in my chosen 
+  field of NLU.
+- Balanced coursework with teaching assistant responsibilities and academic & research presentations.
+
+**Important Note:** My experiences in this course reflect my personal academic journey. Students considering this or similar courses may wish to consult multiple sources including official course evaluations and peer reviews to form their own expectations.
+
 ## Contact
 
 For questions about the implementations or to request additional documentation on specific projects, please contact me through GitHub.
@@ -38,3 +52,8 @@ For questions about the implementations or to request additional documentation o
 ---
 
 *Note: This repository contains academic work. All implementations are my own unless otherwise noted in the specific project documentation.*
+
+
+## Acknowledgments
+
+Repository documentation was improved with the assistance of Anthropic's Claude AI assistant.
