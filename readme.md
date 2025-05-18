@@ -178,6 +178,7 @@ For questions about the implementations or to request additional documentation o
 <a href="https://github.com/sushmaakoju/my-prompts-for-generating-harmless-texts/tree/46dbddf2f099cd822fc1d31faa4c88f33ce03e52">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
 
 ### Approach:
+
 - Incremental addition of text to build the context.
 - Inputs in handwritten first order logic and clausal normal forms.
 - Incremental modifications to make the context subtle and professional.
@@ -188,7 +189,20 @@ For questions about the implementations or to request additional documentation o
 - Fifth prompt, to introduce other broader ethical implications.
 - These examples prove a lie can only take you so far and logic along with administrative and legal policies, can trap the liar, with sound logical alignment.
 - Detecting lies, biases, prejudices, cues in texts are an interesting example of logic and liar's paradoxes. Why?:) (hope you enjoy reflecting this)
-    
+
+### Since when did I work on and learn about First Order Logic:
+
+- <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#course-project-for-10812-architectures-in-never-ending-learning-spring-2018-prof-tom-mitchell-and-abulhair-saparov"> Experience of learning from mentors since 2018</a>
+- My works from University of Colorado Boulder on Logic - 
+    - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-KRR%20Project%20Final%20Presentation.pdf">Knowledge representation, reasoning, Abstract Meaning Representations in Natural Language, Logical Neural Networks LNNs, Fall 2021</a>
+    - <a href="https://github.com/sushmaakoju/reasoning-knowledge-representation">reasoning-knowledge-representation</a>
+    - <a href="https://github.com/sushmaakoju/markov-logic-networks"> My works on Markov Logic Networks, Fall 2021</a> and <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-mln-stats-fall-2021-final.pdf">presentation</a>
+    - <a href="https://github.com/sushmaakoju/research-experience/blob/main/university-of-colorado-boulder/sushma-akoju-Theorem%20Prover.pdf"> Theorem Provers, Turing completeness</a> and <a href="https://github.com/sushmaakoju/demo-ATLS5214">presentation</a>
+- My works from University of Colorado Boulder on Natural Language Understanding and Processing 
+    - <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#summary-reports-of-the-study-and-approach-for-the-independent-study">Independent study</a> and <a herf="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes">the study and design of Named Entity Recognition from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents, Summer 2022</a>
+    - <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task">I received #1 rank on the leaderboard in the first round of SemEval task competition that was part of the NLP class, despite finger fracture and wildfires in Boulder.</a>
+- These works were from 2018 to 2022. Take it with a pinch of salt as libraries and Language Models underwent evolutionary changes!
+
 ### Findings
 
 - Claude AI does can rephrase and summarize both efficiently within the token limit.
