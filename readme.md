@@ -174,8 +174,8 @@ For questions about the implementations or to request additional documentation o
 
 *Note: This repository contains academic work. All implementations are my own unless otherwise noted in the specific project documentation.*
 
-## My Prompts for designing the content of section
-<a href="https://github.com/sushmaakoju/my-prompts-for-generating-harmless-texts/tree/46dbddf2f099cd822fc1d31faa4c88f33ce03e52">My prompts for the section aNotes on Logical Fallacies and Policy Interpretations</a>
+## My Prompts for designing the content of section <a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#notes-on-logical-fallacies-and-policy-interpretations">Notes on Logical fallacies and policy</a>
+<a href="https://github.com/sushmaakoju/my-prompts-for-generating-harmless-texts/tree/46dbddf2f099cd822fc1d31faa4c88f33ce03e52">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
 
 
 ## Acknowledgments
