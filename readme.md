@@ -177,6 +177,24 @@ For questions about the implementations or to request additional documentation o
 ## My Prompts for designing the content of section <a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#notes-on-logical-fallacies-and-policy-interpretations">Notes on Logical fallacies and policy</a>
 <a href="https://github.com/sushmaakoju/my-prompts-for-generating-harmless-texts/tree/46dbddf2f099cd822fc1d31faa4c88f33ce03e52">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
 
+### Approach:
+    - Incremental addition of text to build the context.
+    - Inputs in handwritten first order logic and clausal normal forms.
+    - Incremental modifications to make the context subtle and professional.
+    - First prompt was on "Understanding Logical Fallacies in Academic Contexts: Hasty Generalization: A Case Study".
+    - Second prompt, being the bottom-up generalization with policy interpretations at a broader level.
+    - Third prompt, to introduce liar's paradoxes after-the-fact, admitting to or denying the false allegations, with evidences, renders a logical trap similar to liar's paradox.
+    - Fourth prompt, elaborated why the false allegations under the legal microscope, given the evidences, are a liar's paradoxes with example.
+    - Fifth prompt, to introduce other broader ethical implications.
+    - These examples prove a lie can only take you so far and logic along with administrative and legal policies, can trap the liar, with sound logical alignment.
+    - Detecting lies, biases, prejudices, cues in texts are an interesting example of logic and liar's paradoxes. Why?:) (hope you enjoy reflecting this)
+    
+
+### Findings
+    - Claude AI does can rephrase and summarize both efficiently within the token limit.
+    - With explicit stated token limit in the prompt, Claude does well.
+    - After my examples, Claude AI was able to pick up my area of work and summarize effectively in other contexts in subsequent prompts.
+
 
 ## Acknowledgments
 
