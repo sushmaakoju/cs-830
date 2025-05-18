@@ -14,24 +14,24 @@ This repository contains my work for selected assignments from the CS830 Introdu
   - Project documentation is available upon request later.
   - This project draft is currently being reviewed by experts in Natural Language Understanding.
 
-## Technical Implementation Notes
+### Technical Implementation Notes
 
 - The assignments explore various AI techniques including search algorithms, knowledge representation, and logical reasoning
 - Implementations follow course requirements while addressing technical challenges
 - For Assignment 7, developed a custom parser to handle logical expressions without using external libraries
 - The final project provides an original approach to resolution-based theorem proving
 
-## Technologies Used
+### Technologies Used
 
 - Python programming language based on the requirements of each assignment.
 - Custom-built parsers for handling logical expressions.
 - Implementation of standard AI algorithms with original extensions.
 
-## Notes on Logical Fallacies and Policy Interpretations
+# Notes on Logical Fallacies and Policy Interpretations
 
 As I have a Masters in Forensic Science and criminal justice, I like to present an example of a real-life situation. There is an inherent alignment with logical fallacies and law enforcement penalties. 
 
-### Example 1: Legal and Ethical Dimensions of Logical Fallacies: A Theoretical Framework
+## Example 1: Legal and Ethical Dimensions of Logical Fallacies: A Theoretical Framework
 
 ### Additional Hypothetical Consideration: Potential Legal Implications
 
@@ -71,7 +71,7 @@ This theoretical scenario underscores the importance of:
 
 *Note: This purely hypothetical analysis is provided solely as an educational exploration of logical reasoning concepts and their potential implications. It does not constitute legal advice nor does it reference any actual circumstances or individuals.*
 
-### Example 2: Policy Interpretation Analysis
+## Example 2: Policy Interpretation Analysis
 
 The following example examines a hypothetical situation involving syllabus policies, assignment-specific exceptions, and the logical analysis of potential contradictions leading to legal consequences. This serves as an educational demonstration of:
 
@@ -85,9 +85,7 @@ For a detailed exploration of this logical analysis, you can input the example i
 
 This example is provided purely for educational purposes regarding logical fallacies and proper evidence evaluation in academic contexts. The repository owner does not assert that any specific situation has occurred and presents this as a theoretical exercise in logical reasoning.
 
-## Understanding Logical Fallacies in Academic Contexts
-
-### Hasty Generalization: A Case Study
+### Understanding Logical Fallacies in Academic Contexts: Hasty Generalization: A Case Study
 
 This analysis examines how policy interpretation can be subject to logical fallacies, specifically [hasty generalization](https://en.wikipedia.org/wiki/Faulty_generalization#Hasty_generalization).
 
@@ -176,8 +174,10 @@ For questions about the implementations or to request additional documentation o
 
 *Note: This repository contains academic work. All implementations are my own unless otherwise noted in the specific project documentation.*
 
+## My Prompts for designing the content of section
+<a href="https://github.com/sushmaakoju/my-prompts-for-generating-harmless-texts/tree/46dbddf2f099cd822fc1d31faa4c88f33ce03e52">My prompts for the section aNotes on Logical Fallacies and Policy Interpretations</a>
+
 
 ## Acknowledgments
 
 Repository documentation was improved with the assistance of Anthropic's Claude AI assistant.
-Every reason to like Claude!**
