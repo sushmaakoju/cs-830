@@ -46,6 +46,16 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 
 **Important Note:** My experiences in this course reflect my personal academic journey. Students considering this or similar courses may wish to consult multiple sources including official course evaluations and peer reviews to form their own expectations.
 
+### Note about authorship
+
+- For any other confidential information about extenuating circumstances and authorship verification, please contact sakojuj2014@gmail.com for forensically verified AND legally attested copies of admission acceptance letters, enrollment verification as well as timeline of extenuating circumstances.
+
+- **Please refer to my statement of advocacy and disclaimer for more details: <a href="https://github.com/sushmaakoju/research-experience/blob/main/advocacy_statement.md#note">Note on authorship and attributions towards any existing/new grant award/programs/any other works/collaborations.</a>**
+
+- The works in this course CS 830 were NOT authorized and NOT consented for distribution/reuse towards ANY new or existing grant awards/programs or applications. Any unauthorized distribution of my works and any claims of unauthorized, unconsented contribution towards any grant awards **NSF Award Number: 1846017** or any other grant/program/any other works constitutes unconsented and unauthorized use of intellectual work.
+
+- Any use of my works towards new or existing grant applications/funding/towards other works, without my explicit consent and knowledge is unauthorized. Such unauthorized use also creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts.
+
 ### My Prompts for designing the content of section <a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#example-1-legal-and-ethical-dimensions-of-logical-fallacies-a-theoretical-framework">Notes on Logical fallacies and policy</a>
 <a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#example-2-policy-interpretation-analysis">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
 
