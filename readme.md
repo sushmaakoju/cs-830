@@ -30,14 +30,15 @@ This repository contains my work for selected assignments from the CS830 Introdu
 
 ## Academic Context
 
-This work was completed as part of coursework in Computer Science. I mainly focussed on segments more relevant for Natural Language Understanding. The repository showcases technical implementations related to foundations of artificial intelligence.
+This work was completed as part of coursework in Computer Science. I mainly focussed on segments more relevant for Natural Language Understanding even though class is robotics aligned. The repository showcases technical implementations related to foundations of artificial intelligence.
 
 ## Academic Challenges Encountered
 
 During the Spring 2025 semester, I faced several obstacles that impacted my coursework:
 
 - Navigated challenges despite having temporary accommodations through Student Accessibility 
-  Services (Oct 2024, April 2025).
+  Services and CREO (Oct 2024, April 2025).
+- Specifically, unforeseen problems emerged following my guest lecture on AI for Academic Writing during the week of March 3-7, 2025. The subsequent events demonstrate a concerning pattern of inadequate recognition for my intellectual contributions and apparent disregard for my professional trajectory from people who would never recognize an International female scholar. This situation further illustrates the particular challenges that can arise between peers at equivalent stages in a PhD program, where professional courtesy might reasonably be expected but was not consistently maintained. The resort to mischaracterization as a means of academic advancement represents an unfortunate substitution of improper tactics by seeking instant gratification rather than pursuing substantive achievement.  When one maintains clear professional boundaries, mischaracterization often becomes the only available avenue for those seeking to undermine a colleague's standing.
 - Maintained commitment to my chosen PhD specialization in Natural Language Understanding (NLU) amid lot of 
   pressure to change research direction.
 - Experienced a challenging academic environment at various levels that tested my resolve to continue in my chosen 
@@ -45,6 +46,22 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 - Balanced coursework with teaching assistant responsibilities and academic & research presentations.
 
 **Important Note:** My experiences in this course reflect my personal academic journey. Students considering this or similar courses may wish to consult multiple sources including official course evaluations and peer reviews to form their own expectations.
+
+## Professional References and Communications
+
+- This course's robotics focus did not align with my Natural Language Understanding specialization, though I appreciate the educational experience provided.
+
+- The instructor of this class also happens to be Interim department head. I have tremendous gratitude for the same.
+
+- I have not requested recommendation letters from the professor or teaching assistants of this class as part of maintaining appropriate professional boundaries given the specialization mismatch and other contextual factors noted above. **For any authorship verification, forensically verified evidences, please contact me directly at sakoju2014@gmail.com.**
+
+- I maintain the fundamental right to determine my professional associations based on safety considerations and ethical standards. Any attempt to misrepresent this appropriate exercise of professional discretion as something other than a legitimate safety measure constitutes an exploitative mischaracterization of reasonable boundaries.
+
+- All my communications regarding this course have been through official channels only. For verification of this or any other matter related to my academic contribution, please contact me directly at sakoju2014@gmail.com.
+
+- I have not authorized third parties to make inquiries about my performance or contributions in this course to the instructional team.
+
+- I maintain documentation of my actual coursework and contributions. Any characterizations of my work that differ significantly from this documentation may warrant clarification through appropriate academic or legal channels to ensure accurate representation.
 
 ### Note about authorship
 
@@ -56,172 +73,18 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 
 - Any use of my works towards new or existing grant applications/funding/towards other works, without my explicit consent and knowledge is unauthorized. Such unauthorized use also creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts.
 
-### My Prompts for designing the content of section <a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#example-1-legal-and-ethical-dimensions-of-logical-fallacies-a-theoretical-framework">Notes on Logical fallacies and policy</a>
-<a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#example-2-policy-interpretation-analysis">My prompts for the section Notes on Logical Fallacies and Policy Interpretations</a>
-
-### Approach:
-
-- Incremental addition of text to build the context.
-- Inputs in handwritten first order logic and clausal normal forms.
-- Incremental modifications to make the context subtle and professional.
-- First prompt was on "Understanding Logical Fallacies in Academic Contexts: Hasty Generalization: A Case Study".
-- Second prompt, being the bottom-up generalization with policy interpretations at a broader level.
-- Third prompt, to introduce liar's paradoxes after-the-fact, admitting to or denying the false allegations, with evidences, renders a logical trap similar to liar's paradox.
-- Fourth prompt, elaborated why the false allegations under the legal microscope, given the evidences, are a liar's paradoxes with example.
-- Fifth prompt, to introduce other broader ethical implications.
-- These examples prove a lie can only take you so far and logic along with administrative and legal policies, can trap the liar, with sound logical alignment.
-- Detecting lies, biases, prejudices, cues in texts are an interesting example of logic and liar's paradoxes. Why?:) (hope you enjoy reflecting this)
-
-#### Prompts for Example 1 and Example 2
-
-To not fully disclose the complete method that was used (in view of some ongoing work), only one of the first prompts for two examples is included for reference as follows:
-
-Prompt for example 1: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_first_example_prompt1_sushma_akoju.png">first prompt for exaample 1</a>
-
-Prompt for example 2: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_second_example_prompt1_sushmaakoju.png">first prompt for example 2</a>
-
-### Results
-
-- Claude can translate from First order logical forms to Natural language
-- Claude AI does can rephrase and summarize both efficiently within the token limit.
-- With explicit stated token limit in the prompt, Claude does well.
-- After my examples, Claude AI was able to pick up my area of work and summarize effectively in other contexts in subsequent prompts.
-
-### References of my prior work on First Order Logic: 
-
-<a href="https://github.com/sushmaakoju/cs-830?tab=readme-ov-file#my-prior-works-on-first-order-logic"> My prior works on First Order Logic since 2018 - 2023</a>
-
-## Notes on Logical Fallacies and Policy Interpretations
-
-As I have a Masters in Forensic Science and criminal justice, I like to present an example of a real-life situation. There is an inherent alignment with logical fallacies and law enforcement penalties. 
-
-### Example 1: Legal and Ethical Dimensions of Logical Fallacies: A Theoretical Framework
-
-Prompt for example 1: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_first_example_prompt1_sushma_akoju.png">first prompt for exaample 1</a>
-
-#### Additional Hypothetical Consideration: Potential Legal Implications
-
-When logical fallacies like hasty generalization move beyond academic contexts into formal allegations, they may intersect with legal frameworks such as New Hampshire's unsworn falsification statute ([NH RSA 641:3](https://law.justia.com/codes/new-hampshire/2023/title-lxii/chapter-641/section-641-3/)).
-
-In a theoretical scenario:
-
-1. **Legal Paradox Formation**
-   - If a false allegation based on logical fallacy enters official channels
-   - And evidence demonstrates the falsity of such allegations
-   - The original accuser faces a decision dilemma:
-     * Acknowledging the error could potentially expose them to civil liability
-     * Maintaining the false position could potentially implicate them in more serious matters
-
-2. **Systemic Implications**
-   - Officials who act upon allegations without proper verification may become indirectly involved
-   - This creates an institutional responsibility for thorough evidence evaluation
-   - Such situations highlight why preliminary investigation before action is essential
-
-3. **Liar's Paradox in Legal Contexts**
-   - The accused's position creates a logical trap similar to the classic liar's paradox.
-   - Either admitting or denying the allegation after contrary evidence emerges leads to potentially problematic outcomes
-   - This demonstrates how logical fallacies can cascade into complex ethical and legal dilemmas.
-   - Perpetrator is doomed if he admits to false allegations and doomed if he does not admit to false allegations. if he stays silent, such a logical trap from legal consequence would not go away. 
-   - This ideally renders the perpetrator who used such a false allegations for professional growth or by negative publicity, is doomed.
-
-#### Preventative Approaches
-
-This theoretical scenario underscores the importance of:
-- Careful allegation verification before formal proceedings
-- Institutional safeguards against hasty conclusions
-- Clear policies for addressing policy contradictions
-- Documentation practices that prevent misinterpretation
-- Correction mechanisms when new evidence emerges
-
-**Just a hypothetical question: should the victim file a lawsuit to set the logical trap or not?**
-
-*Note: This purely hypothetical analysis is provided solely as an educational exploration of logical reasoning concepts and their potential implications. It does not constitute legal advice nor does it reference any actual circumstances or individuals.*
-
-### Example 2: Policy Interpretation Analysis
-
-One of the first prompts for example 2: <a href="https://github.com/sushmaakoju/cs-830/blob/main/my_second_example_prompt1_sushmaakoju.png">first prompt for example 2</a>
+# My prior works on First Order Logic:
 
 
-The following example examines a hypothetical situation involving syllabus policies, assignment-specific exceptions, and the logical analysis of potential contradictions leading to legal consequences. This serves as an educational demonstration of:
+## May 2025
 
-1. How to formalize claims using first-order logic
-2. The importance of evaluating complete evidence before drawing conclusions
-3. How contradictions between general policies and specific exceptions should be resolved
-4. Alignment of administrative policies with that of logical and faithful analysis
-5. Alignment of legal policies and penalties with that of falsification with logical fallacy
+- <a href="https://github.com/sushmaakoju/research-experience/blob/main/logical-fallacies-case-study.md"> Notes on Logical Fallacies and Policy Interpretations, May 2025</a>
 
-For a detailed exploration of this logical analysis, you can input the example in this repository into any Large Language Model to evaluate whether the conclusion represents a hasty generalization based on first-order logical form.
+- <a href="https://github.com/sushmaakoju/research-experience/blob/main/first-order-logic-as-a-tool.md">Steps taken to spread awareness on First Order Logic for reasoning in Language Understanding of our daily life</a>
 
-This example is provided purely for educational purposes regarding logical fallacies and proper evidence evaluation in academic contexts. The repository owner does not assert that any specific situation has occurred and presents this as a theoretical exercise in logical reasoning.
+-------
 
-#### Understanding Logical Fallacies in Academic Contexts: Hasty Generalization: A Case Study
-
-This analysis examines how policy interpretation can be subject to logical fallacies, specifically [hasty generalization](https://en.wikipedia.org/wiki/Faulty_generalization#Hasty_generalization).
-
-##### Initial Claim and Evidence Structure
-
-**Claim:**
-"The submitted work violates the syllabus policy."
-- Formalized as: ∃x [Person(x) ∧ Submitted(x, Work) ∧ Violates(x, Work, SyllabusPolicy)]
-
-**Apparent Evidence:**
-"The work includes a library/implementation that violates syllabus policy."
-- Formalized as: ∃x [Submitted(x, Work) ∧ Includes(Work, Library) ∧ CausedBy(Work, Library, Impl) ∧ Violates(x, Work, SyllabusPolicy)]
-
-##### Complete Contextual Evidence
-
-The complete analysis reveals policy contradiction:
-- The syllabus contains a general prohibition against external libraries.
-- Assignment 6 specifically permits external libraries as an exception.
-- This creates a hierarchical policy relationship where the assignment-specific guideline provides 
-  an exception to the general rule.
-
-##### Logical Analysis
-
-The hasty generalization occurs when concluding a violation without considering the full policy context. A proper logical analysis requires evaluating **whether** :
-- Both policies agree on prohibition (which would constitute a violation)
-- Policies contradict each other (in which case the specific assignment policy typically overrides the general syllabus policy)
-
-##### Potential Implications
-
-Making definitive accusations based on incomplete policy analysis could potentially:
-
-- Create misunderstandings in academic environments
-- Lead to unwarranted legal consequences</a> for the accuser.
-- Have <a href="https://law.justia.com/codes/new-hampshire/2023/title-lxii/chapter-641/section-641-3/">legal implications</a> if false allegations become part of formal proceedings
-- Create documentation that could be subject to institutional or legal review if disputes escalate.
-- Affect the accused's academic standing or reputation without proper evidentiary basis.
-- Set problematic precedents for policy interpretation in similar cases.
-- Raise concerns about selective enforcement if patterns emerge suggesting bias in how policies are applied across different demographic groups
-- Undermine institutional equity goals if hasty generalizations disproportionately impact certain populations.
-
-##### Broader Ethical Considerations
-
-This example serves as a reminder of the importance of:
-- Thorough policy review before making accusations
-- Appropriate channels for resolving policy interpretation questions
-- Fair and consistent application of academic standards
-- Seeking clarification when policies appear to conflict
-- Maintaining professional communication throughout dispute resolution processes
-- Being mindful of implicit biases that might affect judgment in policy interpretation
-- Upholding principles of equity and inclusion in all academic evaluations
-
-##### Conclusion
-This example illustrates the importance of comprehensive evidence evaluation and proper policy interpretation when making determinations about academic compliance. It highlights how thoughtful analysis can foster a shared academic environment where misunderstandings can be resolved through evidence-based reasoning rather than hasty judgments. **The willingness to reconsider initial conclusions based on complete evidence demonstrates intellectual integrity and preserves the academic dignity of all parties involved. **Absence of such willingness to reconsider false conclusions, has the potential lead to misdemeanor charges, as perpetuating false allegations can lead defamation and harassment from victims who fall for such false allegations, under existing sexual harassment/violence situations.** Case won!
-
-*Note: This analysis is provided purely as an educational demonstration of logical reasoning in academic contexts. It does not reference any specific real-world situation and serves only as an illustrative example of critical thinking in policy interpretation.*
-
-Please let me know if you need full First Order Logic forms and clausal forms and several proof interpretations of this piece of example. It was a very interesting example if you enjoy policy interpretations.
-
-I am Sushma Anand Akoju (pronouns: she/her), PhD student, focussed on Natural Language Understanding, Neurosymbolic Methods.
-
-**Hope you enjoyed my example on logical fallacies and critical thinking in policy interpretation!**
-
----
-
-*Note: This repository contains academic work. All implementations are my own unless otherwise noted in the specific project documentation.*
-
-### My prior works on First Order Logic:
+## 2018 - 2024
 
 - <a href="https://github.com/sushmaakoju/research-experience/tree/main/carnegie-mellon-university#course-project-for-10812-architectures-in-never-ending-learning-spring-2018-prof-tom-mitchell-and-abulhair-saparov"> Experience of learning from mentors since 2018</a>
 - My works from University of Colorado Boulder on Logic - 
@@ -233,8 +96,7 @@ I am Sushma Anand Akoju (pronouns: she/her), PhD student, focussed on Natural La
     - <a href="https://github.com/sushmaakoju/research-experience/tree/main/university-of-colorado-boulder#summary-reports-of-the-study-and-approach-for-the-independent-study">Independent study</a> and <a herf="https://github.com/sushmaakoju/named-entity-text-extraction-ocr-slave-trade-volumes">the study and design of Named Entity Recognition from OCR scanned Handwritten Slave Trade Volumes and to train a search over OCR scanned documents, Summer 2022</a>
     - <a href="https://github.com/sushmaakoju/nlp-final-2021-pcl-semeval2022-task">I received #1 rank on the leaderboard in the first round of SemEval task competition that was part of the NLP class, despite finger fracture and wildfires in Boulder.</a>
 - These works were from 2018 to 2022. Take it with a pinch of salt as libraries and Language Models underwent evolutionary changes!
-
-
+-------
 
 ## Acknowledgments
 
@@ -244,3 +106,4 @@ Some parts of the repository documentation was improved with the assistance of A
 ## Contact
 
 For questions about the implementations or to request additional documentation on specific projects or the examples, please contact me through GitHub.
+-------
