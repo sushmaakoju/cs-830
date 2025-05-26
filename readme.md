@@ -41,8 +41,8 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 - Specifically, unforeseen problems emerged following my guest lecture on AI for Academic Writing during the week of March 3-7, 2025. The subsequent events demonstrate a concerning pattern of inadequate recognition for my intellectual contributions and apparent disregard for my professional trajectory from people who would never recognize an International female scholar. This situation further illustrates the particular challenges that can arise between peers at equivalent stages in a PhD program, where professional courtesy might reasonably be expected but was not consistently maintained. The resort to mischaracterization as a means of academic advancement represents an unfortunate substitution of improper tactics by seeking instant gratification rather than pursuing substantive achievement.  When one maintains clear professional boundaries, mischaracterization often becomes the only available avenue for those seeking to undermine a colleague's standing.
 - Maintained commitment to my chosen PhD specialization in Natural Language Understanding (NLU) amid lot of 
   pressure to change research direction.
-- Experienced a challenging academic environment at various levels that tested my resolve to continue in my chosen 
-  field of NLU.
+- Experienced a challenging academic environment at various levels that tested my resolve to continue in my chosen field of NLU.
+- Experienced hazing and stalking. Facing potential targetted attacks due to falsified information spread out of abuse out of denial of recognition and acceptance from early career members, others and their supporters.
 - Balanced coursework with teaching assistant responsibilities and academic & research presentations.
 
 **Important Note:** My experiences in this course reflect my personal academic journey. Students considering this or similar courses may wish to consult multiple sources including official course evaluations and peer reviews to form their own expectations.
@@ -51,7 +51,7 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 
 - This course's robotics focus did not align with my Natural Language Understanding specialization, though I appreciate the educational experience provided.
 
-- The instructor of this class also happens to be Interim department head. I have tremendous gratitude for the same.
+- The instructor of this class also happens to be Interim department head. I have gratitude for the same. However, I do not have any professional connect or association with the instructor.
 
 - I have not requested recommendation letters from the professor or teaching assistants of this class as part of maintaining appropriate professional boundaries given the specialization mismatch and other contextual factors noted above. **For any authorship verification, forensically verified evidences, please contact me directly at sakoju2014@gmail.com.**
 
@@ -59,9 +59,9 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 
 - All my communications regarding this course have been through official channels only. For verification of this or any other matter related to my academic contribution, please contact me directly at sakoju2014@gmail.com.
 
-- I have not authorized third parties to make inquiries about my performance or contributions in this course to the instructional team.
+- I have NOT authorized third parties to make inquiries about my performance or contributions in this course to the instructional team and I did not engage in any academic conversations from this instructional team due to aforementioned situations.
 
-- I maintain documentation of my actual coursework and contributions. Any characterizations of my work that differ significantly from this documentation may warrant clarification through appropriate academic or legal channels to ensure accurate representation.
+- **I maintain documentation of my actual coursework, professional communications and contributions. Any mischaracterizations of my work that differ significantly from this documentation may warrant clarification through appropriate academic or legal channels to ensure accurate representation.**
 
 ### Note about authorship
 
@@ -72,6 +72,12 @@ During the Spring 2025 semester, I faced several obstacles that impacted my cour
 - The works in this course CS 830 were NOT authorized and NOT consented for distribution/reuse towards ANY new or existing grant awards/programs or applications. Any unauthorized distribution of my works and any claims of unauthorized, unconsented contribution towards any grant awards **NSF Award Number: 1846017** or any other grant/program/any other works constitutes unconsented and unauthorized use of intellectual work.
 
 - Any use of my works towards new or existing grant applications/funding/towards other works, without my explicit consent and knowledge is unauthorized. Such unauthorized use also creates potential authorship conflicts as these works were shared with other Natural Language Understanding experts.
+
+- Any communication with a dash of courtesy and respect tend to receive my promptest replies. My pronouns: she/her (cisfemale) — I appreciate your respect for my identity in all communications. Thank you for understanding my communication management approach!
+
+- I invite you to transform communication for complex professional communication, a recommendation and suggestion from me to navigate smoothly - <a href="https://tinyurl.com/transform-your-communication">An Open Invitation to Transform Communication</a>. 
+
+- Any threats to deactivate github accounts, is protected due to proactive steps taken under legal policies and prior legal restrictions that connect 2023-2024 situation and any connected exploitation of the same.
 
 # My prior works on First Order Logic:
 
@@ -106,4 +112,5 @@ Some parts of the repository documentation was improved with the assistance of A
 ## Contact
 
 For questions about the implementations or to request additional documentation on specific projects or the examples, please contact me through GitHub.
+
 -------
